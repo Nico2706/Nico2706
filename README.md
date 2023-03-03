@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I am a fullstack developer with javascript as my main language, I like to learn by doing projects. Always looking for the latest technologies to keep training myself. I am currently looking for my first work experience.<br>⚡ I am currently working on a project with Next Js that will be an e-commerce with a sneaker theme
 
+https://nico2706.github.io/Portafolio/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolasrichter2706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-nicolas-augusto-richter) 
